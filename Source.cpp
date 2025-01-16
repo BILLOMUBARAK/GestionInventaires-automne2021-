@@ -1,8 +1,9 @@
 /*------------------------------------------------------------------------------*/
-/* Fichier : TP4Q1_Code_Equipe_C												*/
-/* AUTEUR : Ndiaye, Serigne Mbacke, Diallo Mamadou Billo, Dennler Julian		*/
+/* Fichier : TP4Q1_Code_Equipe_C						*/
+/* AUTEUR : Ndiaye, Serigne Mbacke, Diallo Mamadou Billo, Dennler Julian	*/
 /* DATE : 12/11/2021															*/
-/* Description : Programme pour maintenir l'inventaire							*/
+/* Description : Programme pour maintenir l'inventaire				*/
+/*Nom du projet: EasyStock							*/
 /*------------------------------------------------------------------------------*/
 
 #include <iostream>
